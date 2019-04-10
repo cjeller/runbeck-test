@@ -8,4 +8,4 @@ To run code:
 2. run "npm install"
 3. run "npm start"
 
-**requires Node.js**
+**Built on Node.js 11.13.0 and npm 6.7.0**
